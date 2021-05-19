@@ -18,4 +18,4 @@ const toLowerCase = function(str) {
 };
 
 str = "Hello";
-console.log(result);
+console.log(toLowerCase(str));
