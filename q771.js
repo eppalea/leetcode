@@ -19,4 +19,4 @@ const numJewelsInStones = function(jewels, stones) {
 
 jewels = "aA";
 stones = "aAAbbbb";
-console.log(numJewelsInStones);  
+console.log(numJewelsInStones(jewels, stones));  
